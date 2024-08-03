@@ -3,8 +3,7 @@
 The Vrinda Store Annual Report 2023 project is designed to analyze and present annual sales data to help Vrinda Store understand customer trends and identify growth opportunities for 2024.
 
 ## Features
-- Data Cleaning:
-  - Process to ensure data accuracy and consistency.
+- Data Cleaning: Process to ensure data accuracy and consistency.
 - Data Processing: Preparation of the dataset for analysis.
 - Data Analysis: Insights and trends derived from the data.
 - Data Visualization: Creation of charts and graphs to illustrate findings.
@@ -15,29 +14,24 @@ The Vrinda Store Annual Report 2023 project is designed to analyze and present a
 
 ## Installation Instructions
 - Download the Project Files
-Clone or download the repository from GitHub.
+  - Clone or download the repository from GitHub.
 
 - Open the Excel File
-Open the provided Excel file using Microsoft Excel.
+  - Open the provided Excel file using Microsoft Excel.
 
 - Review the Data
-Navigate through the sheets for data cleaning, analysis, and visualization.
+  - Navigate through the sheets for data cleaning, analysis, and visualization.
 
 ## Usage
-- Data Cleaning
-Review the "Data Cleaning" sheet to see the cleaned dataset.
+- Data Cleaning: Review the "Data Cleaning" sheet to see the cleaned dataset.
 
-- Data Processing
-Check the "Data Processing" sheet for processed data ready for analysis.
+- Data Processing: Check the "Data Processing" sheet for processed data ready for analysis.
 
-- Data Analysis
-Explore the "Data Analysis" sheet for insights and trends.
+- Data Analysis: Explore the "Data Analysis" sheet for insights and trends.
 
-- Data Visualization
-View the "Data Visualization" sheet for charts and graphs.
+- Data Visualization: View the "Data Visualization" sheet for charts and graphs.
 
-- Dashboard
-Use the "Dashboard" sheet to interact with the professional report and explore key metrics.
+- Dashboard: Use the "Dashboard" sheet to interact with the professional report and explore key metrics.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
@@ -45,6 +39,6 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 ## Contact Information
 For any questions or inquiries, please contact:
 
-Email: shreyaskumbhar1745@gmail.com
+- Email: shreyaskumbhar1745@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/shreyas-kumbhar-532565236/
+- LinkedIn: https://www.linkedin.com/in/shreyas-kumbhar-532565236/
