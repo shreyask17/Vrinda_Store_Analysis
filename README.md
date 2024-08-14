@@ -41,4 +41,4 @@ For any questions or inquiries, please contact:
 
 - Email: shreyaskumbhar1745@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/shreyas-kumbhar-532565236/
+- LinkedIn: www.linkedin.com/in/shreyask17
